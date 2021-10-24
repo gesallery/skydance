@@ -1,0 +1,21 @@
+{
+  "name": "skydance",
+  "version": "1.0.0",
+  "description": "Interface for Skydance lighting",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gesallery/skydance.git"
+  },
+  "author": "Georgina Sallery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gesallery/skydance/issues"
+  },
+  "homepage": "https://github.com/gesallery/skydance#readme",
+  "dependencies": {}
+}
