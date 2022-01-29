@@ -1,6 +1,6 @@
 {
   "name": "skydance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interface for Skydance lighting",
   "main": "index.js",
   "type": "module",
